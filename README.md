@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-
-Hi 👋, I'm Tirumala Raju Mahali</h1>
-A passionate BlockChain developer from India</h3>
+## I'm Tirumala Raju Mahali
+A passionate BlockChain developer from India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirumala02&label=Profile%20views&color=0e75b6&style=flat" alt="tirumala02" /> </p>
 
